@@ -6,11 +6,11 @@ const Hero = () => {
   const images = [
     {
       img: "/banner/logo/best-website-deigning-ana-development-company-in-india.svg",
-      alt: "best-website-deigning-ana-development-company-in-india.svg",
+      alt: "best-website-deigning-ana-development-company-in-dallas.svg",
     },
     {
       img: "/banner/logo/best-design-comapnies-in-india.svg",
-      alt: "best-design-comapnies-in-india.svg",
+      alt: "best-design-comapnies-in-dallas.svg",
     },
     {
       img: "/banner/logo/facebook-reviews.svg",
@@ -18,7 +18,7 @@ const Hero = () => {
     },
     {
       img: "/banner/logo/search-engine-optimization-firm-in-delhi.svg",
-      alt: "search-engine-optimization-firm-in-delhi.svg",
+      alt: "search-engine-optimization-firm-in-dallas.svg",
     },
     {
       img: "/banner/logo/top-advertising-and-marketing-company (1).png",
