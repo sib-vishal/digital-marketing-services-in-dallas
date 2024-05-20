@@ -20,7 +20,7 @@ const FooterBar = () => {
         </div>
         <div>
           <h4 class=" text-white text-[18px] text leading-tight md:text-[22px] font-redhat  font-bold">
-            Best Digital Marketing Company in India
+            Best Digital Marketing Company in Dallas
           </h4>
         </div>
         <div>
