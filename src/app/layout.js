@@ -7,7 +7,7 @@ import Main from "./Main";
 import FacebookPixel from "@/components/FacebookPixel/FacebookPixel";
 
 export const metadata = {
-  title: "Top Digital Marketing Company in India",
+  title: "Top Digital Marketing Company in Dallas",
 
   description: "",
 };
